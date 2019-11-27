@@ -1,2 +1,2 @@
 # dagmaa.github.io
-Mājasdarbi
+mājasdarbs. mājaslapa par tetovējumiem, angliski.
