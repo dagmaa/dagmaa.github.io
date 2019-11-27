@@ -1,0 +1,61 @@
+#container {
+	font-family: "Verdana", Geneva, sans-serif;
+	text-align: center;
+	background-color: #fff;
+	width: 1200px;
+	height: ;
+	float: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#header {
+	text-align: center;
+	font-family: "Verdana", Geneva, sans-serif;
+	width: 1200px;
+	height: 170px;
+	float: center;
+	
+}
+#content {
+	font-family: "Verdana", Geneva, sans-serif;
+	text-align: center;
+	float: center;
+	
+}
+#navig {
+	font-family: "Verdana", Geneva, sans-serif;
+	color: #ffffff;
+	text-align: center;
+	background-color: #d4d3e3;
+	width: 200px;
+	height: 650px;
+	float: left;
+
+}
+#main {
+	font-family: "Verdana", Geneva, sans-serif;
+	width: 900px;
+	height: 600px;
+	text-align: center;
+	float: right;
+	
+}
+#main_left {
+	font-family: "Verdana", Geneva, sans-serif;
+	width: 900px;
+	height: 600px;
+	text-align: left;
+	float: right;
+}
+#footer {
+	font-family: "Verdana", Geneva, sans-serif;
+	clear: both;
+	text-align: center;
+	color: #ffffff;
+	background-color: #9f9eb5;
+	width: 1200px;
+	height: 21px;
+	float: center;
+
+}
