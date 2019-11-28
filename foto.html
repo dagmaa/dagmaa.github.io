@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<link href="cssbox.css" rel="stylesheet">
 		<title>Tattoos</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
@@ -22,7 +23,52 @@
 				
 				<div id="main_left">
 					<h1>Photos</h1>
+					<hr>
+					<div class="cssbox">
+					  <a id="image1" href="#image1">
+						<img class="cssbox_thumb" src="t1.jpg">
+						<span class="cssbox_full">
+						  <img src="p1.jpg">
+						</span>
+					  </a>
+					  <a class="cssbox_close" href="#void"></a>
+					  <a class="cssbox_next" href="#image2">&gt;</a>
+					</div>
+
+					<div class="cssbox">
+					  <a id="image2" href="#image2">
+						<img class="cssbox_thumb" src="t2.jpg">
+						<span class="cssbox_full">
+						  <img src="p2.jpg">
+						</span>
+					  </a>
+					  <a class="cssbox_close" href="#void"></a>
+					  <a class="cssbox_prev" href="#image1">&lt;</a>
+					  <a class="cssbox_next" href="#image3">&gt;</a>
+					</div>
+
+					<div class="cssbox">
+					  <a id="image3" href="#image3">
+						<img class="cssbox_thumb" src="t3.jpg">
+						<span class="cssbox_full">
+						  <img src="p3.jpg">
+						</span>
+					  </a>
+					  <a class="cssbox_close" href="#void"></a>
+					  <a class="cssbox_prev" href="#image2">&lt;</a>
+					  <a class="cssbox_next" href="#image4">&lt;</a>
+					</div>
 					
+					<div class="cssbox">
+					  <a id="image4" href="#image4">
+						<img class="cssbox_thumb" src="t4.jpg">
+						<span class="cssbox_full">
+						  <img src="p4.jpg">
+						</span>
+					  </a>
+					  <a class="cssbox_close" href="#void"></a>
+					  <a class="cssbox_prev" href="#image3">&lt;</a>
+					</div>
 				</div>
 				
 			<div id="footer">
