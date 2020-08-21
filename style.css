@@ -1,5 +1,5 @@
 #container {
-	font-family: "Verdana", Geneva, sans-serif;
+	font-family: Arial;
 	text-align: center;
 	background-color: #fff;
 	width: 1200px;
@@ -11,20 +11,20 @@
 }
 #header {
 	text-align: center;
-	font-family: "Verdana", Geneva, sans-serif;
+	font-family: Arial;
 	width: 1200px;
 	height: 170px;
 	float: center;
 	
 }
 #content {
-	font-family: "Verdana", Geneva, sans-serif;
+	font-family: Arial;
 	text-align: center;
 	float: center;
 	
 }
 #navig {
-	font-family: "Verdana", Geneva, sans-serif;
+	font-family: Arial;
 	color: #ffffff;
 	text-align: center;
 	background-color: #d4d3e3;
@@ -34,14 +34,14 @@
 
 }
 #main_left {
-	font-family: "Verdana", Geneva, sans-serif;
+	font-family: Arial;
 	width: 1000px;
 	height: 600px;
 	text-align: left;
 	float: right;
 }
 #footer {
-	font-family: "Verdana", Geneva, sans-serif;
+	font-family: Arial;
 	clear: both;
 	text-align: center;
 	color: #ffffff;
